@@ -1,0 +1,11 @@
+{
+  "name": "Suno GMVP Studio",
+  "short_name": "Suno GMVP",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d0b14",
+  "theme_color": "#0d0b14",
+  "description": "Générateur de prompts Suno basé sur la méthode GMVP",
+  "icons": []
+}
